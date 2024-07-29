@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# DEPENDENCIES
+1.npm i
+2.npm install react-router-dom redux react-redux @reduxjs/toolkit eslint eslint-plugin-react
+
+
 In the project directory, you can run:
 
 ### `npm start`
